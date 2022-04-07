@@ -103,8 +103,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: gym drink food
-      - Gaming
-      - Knitting
+      
     
 # Footer
 footer_show_references: true
