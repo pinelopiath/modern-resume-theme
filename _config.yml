@@ -1,14 +1,14 @@
 # Site
-repository: sproogen/resume-theme
+repository: pinelopiath/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
 version: 2
 
 # Personal info
-name: Brett Harris
+name: pinelopi
 title: Senior Network System Administrator
-email: brett.h@email.co.uk
+email: pinelopiath@gmail.com
 website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
